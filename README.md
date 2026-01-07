@@ -1,4 +1,3 @@
-📦 README.md — ERP de Estoque em Django
 # ERP de Estoque – Django 🐍📊
 
 Sistema ERP de **gestão de estoque** desenvolvido em **Django**, focado em controle de produtos, categorias, fornecedores, marcas, movimentações, lotes e métricas gerenciais, com suporte a **multiempresa (multi-cliente)**.
